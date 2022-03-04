@@ -2,7 +2,7 @@
 
 if [ $# -ne 2 ]; then
     echo "Please enter exactly two arguments: <image>.ppm and key to encrypt. E.g.
-#./test.sh Tux.ppm my_password"
+./encrypt.sh Tux.ppm my_password"
     exit 1
 fi
 
