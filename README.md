@@ -10,6 +10,6 @@ such as simple digital images with a monochrome background.
 ## Usage:
 
 ```
-./encrypt.sh x.ppm my_secret_key
+./encrypt.sh Tux.ppm my_secret_key
 open ecb_encrypted_art_Tux.ppm
 ```
