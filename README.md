@@ -5,7 +5,7 @@ demonstration of this is the [ECB
 penguin](https://en.wikipedia.org/wiki/Block_cipher_mode_of_operation#Electronic_codebook_(ECB)).
 This is a simple script to produce your own ECB art using a .ppm image and a key
 of your choosing. Note: it only works well with images with repeating patterns
-such as simple digital images with a monochrome background.
+such as simple digital images without a rich colour palette.
 
 ## Usage:
 
